@@ -2,7 +2,7 @@
 
 ```
 Sum of numbers from 1 to n formula:
----
+
 sum = n(n + 1) / 2;
 ```
 
