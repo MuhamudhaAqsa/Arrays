@@ -41,3 +41,20 @@ class Solution
     }
 }
 ```
+
+```
+Strengths of this algorithm:
+
+⭐️ Avoids multiple unnecessary checks.
+⭐️ Using a single HashMap.
+⭐️ Modifying the existing HashMap to solve the problem efficiently.
+```
+
+```
+Pattern of the above question:
+
+Count of a key
+      |
+Incrementing and decrementing counts
+
+```      
