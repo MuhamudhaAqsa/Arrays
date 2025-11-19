@@ -54,7 +54,7 @@ Strengths of this algorithm:
 Pattern of the above question:
 
 Count of a key
-      |
+      ↓
 Incrementing and decrementing counts
 
 ```      
