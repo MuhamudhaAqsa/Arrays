@@ -1,5 +1,3 @@
-Left Rotation:
-
 
 ```
 package RotateArrayByOne;
